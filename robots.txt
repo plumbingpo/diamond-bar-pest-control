@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://diamondbarpestcontrolco.com/sitemap.xml
